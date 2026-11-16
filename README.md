@@ -1,23 +1,4 @@
 
-# Tfh-like Cell Populations in Skull and Sternum Bone Marrow
-
-### Single-cell RNA-seq reanalysis | Mouse Bone Marrow | GSE313969
-
-This repository contains computational results and poster-ready material from a reanalysis of published mouse skull and sternum bone marrow single-cell RNA-sequencing data.
-
-The analysis focuses on identifying and characterizing a putative T follicular helper-like (Tfh-like) population within CD4-enriched T-cell populations.
-
-Published B-cell findings from the original study are presented separately as supporting biological context.
-
----
-
-# RESEARCH OBJECTIVE
-
-To investigate whether skull bone marrow contains a distinct Tfh-like T-cell population and compare its transcriptional characteristics and representation with sternum bone marrow.
-
-The findings are considered alongside published evidence of germinal-center-like B cells and antibody-secreting cells (ASCs) in skull bone marrow.
-
----
 
 # METHODS
 
