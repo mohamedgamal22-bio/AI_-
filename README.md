@@ -90,17 +90,6 @@ Marker analysis revealed expression of *Pdcd1*, *Tox*, and *Icos* in the candida
 </td>
 <td width="50%" valign="top">
 
-### D | Tfh-Associated Signature Score
-
-A continuous Tfh-associated signature, calculated from the mean standardized expression of *Pdcd1*, *Tox*, and *Icos*, revealed heterogeneous transcriptional activity across the joint T-cell population.
-
-<img src="Fig04_Tfh_Score_AllCells_UMAP.png" width="100%" alt="Continuous Tfh-associated signature UMAP">
-
-</td>
-</tr>
-</table>
-
-**Figure C–D.** Marker-expression patterns and a continuous three-gene Tfh-associated signature across the joint T-cell population.
 
 ### Tfh Signature Calculation
 
@@ -114,7 +103,7 @@ The score reflects relative expression of the selected genes and does not indepe
 
 ## 3. Comparative Abundance of Tfh-like Cells
 
-### E | Tfh Cluster Cell Counts in Skull and Sternum BM
+### D | Tfh Cluster Cell Counts in Skull and Sternum BM
 
 The putative Tfh-enriched cluster contained **110 cells in skull BM (15.7% of 701 selected cells)** compared with **35 cells in sternum BM (10.3% of 339 selected cells)**.
 
